@@ -8,3 +8,6 @@ class CreateComments < ActiveRecord::Migration
     end
   end
 end
+
+# t.integer :user_id
+# t.integer :post_id
